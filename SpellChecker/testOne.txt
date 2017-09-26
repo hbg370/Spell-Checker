@@ -1,0 +1,1 @@
+this is a testg to prit out words from a tezt file. Iff twh word is not ix the dictionary, it will be printted out to the screen. I apparntly cnt type so there wil be a lotr of errors in thiz test file.
